@@ -1,7 +1,7 @@
 Challenge 1 Assignment
 By Kristin Peters
 
-
+![TB logo](tblogo.png)
 # The Use of AI in the QSR Space: A Yum! Brands - Taco Bell Case Study
 
 ## Introduction
