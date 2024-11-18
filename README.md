@@ -18,7 +18,7 @@ The company was acquired by PepsiCo in 1978 as a part of PepsiCo’s broader exp
 
 ## The Issues
 
-As a result of the global pandemic, Taco Bell’s sales had declined ~30%, and the company was looking for ways to increase overall sales to new customers and also to increase frequency of purchase with existing customers.  The organization was searching for a way to recover lost sales and to improve their growth trajectory. Through the work of Joe Park (Chief Digital and Technology Officer at YumBrands), Melissa Friebe (Chief Brand Strategy Officer for Taco Bell) and Taylor Montgomery (Chief Marketing Officer for Taco Bell North America), the Taco Bell organization decided to incorporate AI into marketing and operations practices in the hopes of improving their topline growth. 
+As a result of the global pandemic, Taco Bell’s sales had declined ~30%, and the company was looking for ways to increase overall sales to new customers and also to increase frequency of purchase with existing customers.  The organization was searching for a way to recover lost sales and to improve their growth trajectory. Through the work of [Joe Park](https://www.linkedin.com/in/josephrpark/) (Chief Digital and Technology Officer at YumBrands), [Melissa Friebe](https://www.linkedin.com/in/melissafriebe/) (Chief Brand Strategy Officer for Taco Bell) and [Taylor Montgomery](https://www.linkedin.com/in/taylor-montgomery-b5a96947/) (Chief Marketing Officer for Taco Bell North America), the Taco Bell organization decided to incorporate AI into marketing and operations practices in the hopes of improving their topline growth. 
 
 ## Business Activities
 
