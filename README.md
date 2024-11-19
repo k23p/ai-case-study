@@ -51,55 +51,58 @@ results that we’re continuously fine-tuning."
 
 ## Competitive Landscape
 
-[McDonald's](https://www.mcdonalds.com/us/en-us.html) has taken a more extensive approach to AI, focusing on its voice-ordering systems at drive-thrus, which are powered by AI voice bots. These bots are trained to handle orders efficiently, adapting to customer speech patterns and enhancing the customer experience by reducing wait times and improving accuracy
+[McDonald's](https://www.mcdonalds.com/us/en-us.html) has taken a more extensive approach to AI, focusing on its voice-ordering systems at drive-thrus, which are powered by AI voice bots. These bots are trained to handle orders efficiently, adapting to customer speech patterns and enhancing the customer experience by reducing wait times and improving accuracy.
 
-[Chick-fil-A](https://www.chick-fil-a.com/), while also experimenting with AI, has focused on more physical applications such as autonomous robots in certain locations for food delivery and testing AI systems for customer service tasks
+[Chick-fil-A](https://www.chick-fil-a.com/), while also experimenting with AI, has focused on more physical applications such as autonomous robots in certain locations for food delivery and testing AI systems for customer service tasks.
 
 Taco Bell seems to be at the forefront of integrating AI into its ordering processes, with a strong focus on personalization and drive-thru efficiency. McDonald's is expanding voice-based AI ordering, and Chick-fil-A is exploring robotics alongside AI to enhance in-store operations. Each brand's strategy reflects their distinct priorities in improving customer service and operational efficiency.
 
 ## Results
 
-Taco Bell's use of artificial intelligence (AI) has contributed significantly to its sales performance, particularly by boosting digital engagement. In 2023, Taco Bell experienced a 60% increase in its digital sales, largely driven by the expansion of its AI-powered initiatives. These included improvements to the customer experience, particularly through digital ordering systems, such as mobile apps and kiosks, which helped drive a larger digital sales mix​
+Taco Bell's use of AI has contributed significantly to its sales growth, particularly in boosting digital engagement. In 2023, Taco Bell experienced a 60% increase in its digital sales, largely driven by the expansion of its AI-powered initiatives. These included improvements to the customer experience, particularly through digital ordering systems, such as mobile apps and kiosks, which helped drive a larger digital sales mix​. However, it should be noted that in 2023 digital sales accounted for only 1/3 of total sales, and the 'digital sales' grouping included orders placed at digital kiosks, through the McDonalds mobile app, and also through digital delivery services such as Doordash and Uber.
 
-Additionally, Taco Bell's Voice AI technology, which is being deployed in U.S. drive-thrus, aims to streamline the ordering process, reduce operational inefficiencies, and improve customer satisfaction. This effort is part of a broader strategy to enhance customer engagement by using AI to personalize interactions and drive loyalty
+Additionally, Taco Bell's Voice AI technology, which is being deployed in U.S. drive-thrus, has streamlined the ordering process, reducing operational inefficiencies, and improving customer satisfaction. This effort is part of a broader strategy to enhance customer engagement by using AI to personalize interactions and drive loyalty.
 
-The integration of these AI systems has contributed to Taco Bell's ability to maintain growth in the competitive fast-food sector, particularly as its digital platforms continue to account for an increasing share of total sales​
+The integration of these AI systems has contributed to Taco Bell's ability to maintain growth in the competitive fast-food sector, particularly as its digital platforms continue to account for an increasing share of total sales​.
 
 ## Recommendations
 
 There are quite a few different ways in which Taco Bell can continue to expand their utilization of AI to drive greater revenue and profit.  
 
 * **Marketing Examples**
-     * Dynamic Pricing: Taco Bell could implement AI to adjust prices dynamicall based on demand patterns, weather, time of day, or regional preferences. This may help them optimize sales and attract more customers during low-traffic times. For example, AI could adjust pricing for certain menu items to encourage greater traffic during slower hours, using real-time data to maximize revenue per customer. This type of pricing strategy has been successfully employed by other companies in different sectors, increasing their profitability.
+     * **Dynamic Pricing**: Taco Bell could implement AI to adjust prices dynamicall based on demand patterns, weather, time of day, or regional preferences. This may help them optimize sales and attract more customers during low-traffic times. For example, AI could adjust pricing for certain menu items to encourage greater traffic during slower hours, using real-time data to maximize revenue per customer. This type of pricing strategy has been successfully employed by other companies in different sectors, increasing their profitability.
    * Social Media Content Optimization: Taco Bell could use AI to analyze customer interactions on social media and identify trending topics, flavor or other preferences, and emerging food trends. In addition, Taco Bell could use AI tools to create and distribute highly targeted content focused on these themes, optimizing their posts and ads to drive maximum audience engagement. This could include automatically generated posts based on popular keywords or user-generated content, leading to increased brand visibility and deeper connections with the target audience.
  * ​**Product Innovation Examples**
-     * Product Recommendations: Taco Bell could use AI tools to suggest personalized product pairings or new menu items based on a customer’s preferences or purchase history could increase upselling opportunities. For example, when a customer orders a particular taco or burrito, the AI system could suggest sides or drinks that are frequently bought together, leading to higher average order values. This could be implemented in both drive-thru ordering systems and digital channels like the app or website.
-     * Product Development: Taco Bell could use AI to help create new, innovative menu items by analyzing customer preferences and successful past products.
+     * **Product Recommendation**s: Taco Bell could use AI tools to suggest personalized product pairings or new menu items based on a customer’s preferences or purchase history could increase upselling opportunities. For example, when a customer orders a particular taco or burrito, the AI system could suggest sides or drinks that are frequently bought together, leading to higher average order values. This could be implemented in both drive-thru ordering systems and digital channels like the app or website.
+     * **Product Development**: Taco Bell could use AI to help create new, innovative menu items by analyzing customer preferences and successful past products.
 
 * **Operations Examples**
-    * Predictive Analytics for Menu Optimization: Taco Bell could use AI tools to understand consumption patterns, and then use that data to predict predict customer demand for specific items and optimize its menu based on real-time data, trends, and seasonal factors. This would allow Taco Bell to adjust its offerings dynamically, reducing waste, improving the speed of service, and making sure popular items are always in stock.
-    * Drive-Thru & Delivery Service Integration: Taco Bell could use AI tools to improve operational efficiency in their drive-thru and delivery services. AI tools could be used to predict high-demand periods and automatically adjust staffing or product availability, ensuring that customer wait times remain low even during peak hours. Additionally, Taco Bell could reduce delivery times by using AI to predict and optimize delivery routes, which would then improve customer satisfaction and the likelihood of repeat orders.
+    * **Predictive Analytics for Menu Optimization**: Taco Bell could use AI tools to understand consumption patterns, and then use that data to predict predict customer demand for specific items and optimize its menu based on real-time data, trends, and seasonal factors. This would allow Taco Bell to adjust its offerings dynamically, reducing waste, improving the speed of service, and making sure popular items are always in stock.
+    * **Drive-Thru & Delivery Service Integration**: Taco Bell could use AI tools to improve operational efficiency in their drive-thru and delivery services. AI tools could be used to predict high-demand periods and automatically adjust staffing or product availability, ensuring that customer wait times remain low even during peak hours. Additionally, Taco Bell could reduce delivery times by using AI to predict and optimize delivery routes, which would then improve customer satisfaction and the likelihood of repeat orders.
 
 
 ---
 ## References
 
-* Megan Graham, Nov. 15, 2024, _"Taco Bell and KFC’s Owner Says AI-Driven Marketing Is Boosting Purchases”_, [Wall Street Journal](https://www.wsj.com/articles/taco-bell-and-kfcs-owner-says-ai-driven-marketing-is-boosting-purchases-ab3a5f36)
-* Nancy Luna, Apr 29, 2020, _"Taco Bell’s late-night and breakfast sales hit hard by COVID-19"_, [National Restaurant News](https://www.nrn.com/quick-service/taco-bell-s-late-night-and-breakfast-sales-hit-hard-covid-19)
-* Various, Apr 29, 2020, _"Yum! Brands Reports First-Quarter System Sales Decline of (3)% with a Same-Store Sales Decline of (7)% Offset by 4% Net-New Unit Growth; GAAP Operating Profit Decline of (42)%; Core Operating Profit Decline of (6)%"_, [Yum! Brands Quarterly Report, Q1 2020](https://investors.yum.com/news-events/financial-releases/news-details/2020/Yum-Brands-Reports-First-Quarter-System-Sales-Decline-of-3-with-a-Same-Store-Sales-Decline-of-7-Offset-by-4-Net-New-Unit-Growth-GAAP-Operating-Profit-Decline-of-42-Core-Operating-Profit-Decline-of-6/default.aspx)
+* Peter Adams, Nov 6, 2024, _"Yum Brands says AI-powered marketing is helping drive transactions"_, [MarketingDive.com](https://www.marketingdive.com/news/taco-bell-kfc-yum-brands-Q3-2024-earnings-AI-powered-marketing/732122/)
+* Ben Coley, May 28, 2024, _"How Taco Bell’s Marketing Engine Embraces Culture and the Customer"_, [QSR Magazine](https://www.qsrmagazine.com/story/how-taco-bells-marketing-engine-embraces-culture-and-the-customer/)
 * Chris Crichton, Aug 14, 2020, _"Testing Taco Bell’s AI Voice Ordering Drive-Thru Experience"_, [QSR Magazine](https://www.qsrmagazine.com/story/testing-taco-bells-ai-voice-ordering-drive-thru-experience/)
-* Statista Research Department, Oct 24, 2024, _"Taco Bell - average sales per unit in the United States from 2006 to 2023
-_(in million U.S. dollars)_"_, [Statista.com](https://www.statista.com/statistics/205803/taco-bell-sales-per-system-unit-since-2006/)
+* Keegan Edwards, June 1, 2024, _"Understanding Taco Bell’s Target Market: Strategies and Demographics"_, [KeeganEdwards.com](https://keeganedwards.com/understanding-taco-bells-target-market-strategies-and-demographics)
+* Megan Graham, Nov. 15, 2024, _"Taco Bell and KFC’s Owner Says AI-Driven Marketing Is Boosting Purchases”_, [Wall Street Journal](https://www.wsj.com/articles/taco-bell-and-kfcs-owner-says-ai-driven-marketing-is-boosting-purchases-ab3a5f36)
+* Avery Koop, Aug 31, 2022, _"Ranked: The Most Popular Fast Food Brands in America"_, [VisualCapitalist.com](https://www.visualcapitalist.com/ranked-the-most-popular-fast-food-brands-in-america/)
+* Nancy Luna, Apr 29, 2020, _"Taco Bell’s late-night and breakfast sales hit hard by COVID-19"_, [National Restaurant News](https://www.nrn.com/quick-service/taco-bell-s-late-night-and-breakfast-sales-hit-hard-covid-19)
 * Nancy Luna, Sep 14, 2023, _"From taking orders to cutting avocados, AI is solving the labor shortage problem for fast-food chains"_, [Business Insider](https://www.businessinsider.com/how-restaurants-use-ai-robots-chatbots-voice-assistants-drive-thru-2023-9)
 * Staff, May 3, 2023, _"Taco Bell’s Tech Investments Yield 60% Digital Sales Boost"_, [PYMNTS.com](https://www.pymnts.com/earnings/2023/taco-bells-tech-investments-yield-60percent-digital-sales-boost/)
-* Various, Jan 16, 2024, [Yum! Brands 2023 Annual Report](https://s2.q4cdn.com/890585342/files/doc_financials/2023/ar/annual-report-2023/index.html)
+* Statista Research Department, Oct 24, 2024, _"Taco Bell - average sales per unit in the United States from 2006 to 2023
+_(in million U.S. dollars)_"_, [Statista.com](https://www.statista.com/statistics/205803/taco-bell-sales-per-system-unit-since-2006/)
+* Various, Apr 29, 2020, _"Yum! Brands Reports First-Quarter System Sales Decline of (3)% with a Same-Store Sales Decline of (7)% Offset by 4% Net-New Unit Growth; GAAP Operating Profit Decline of (42)%; Core Operating Profit Decline of (6)%"_, [Yum! Brands Quarterly Report, Q1 2020](https://investors.yum.com/news-events/financial-releases/news-details/2020/Yum-Brands-Reports-First-Quarter-System-Sales-Decline-of-3-with-a-Same-Store-Sales-Decline-of-7-Offset-by-4-Net-New-Unit-Growth-GAAP-Operating-Profit-Decline-of-42-Core-Operating-Profit-Decline-of-6/default.aspx)
 * Various, Nov 1, 2023, [Yum Brands 2023 Third Quarter Results](https://investors.yum.com/news-events/financial-releases/news-details/2023/Yum-Brands-Reports-Third-Quarter-Results/default.aspx)
-* Peter Adams, Nov 6, 2024, _"Yum Brands says AI-powered marketing is helping drive transactions"_, [MarketingDive.com](https://www.marketingdive.com/news/taco-bell-kfc-yum-brands-Q3-2024-earnings-AI-powered-marketing/732122/)
-* Bryan Wassel, Nov 11, 2024, _"Taco Bell puts AI front-and-center in drive-thru strategy"_, [CIODive.com](https://www.ciodive.com/news/taco-bell-AI-drive-thru-strategy/732592/)
-* Keegan Edwards, June 1, 2024, _"Understanding Taco Bell’s Target Market: Strategies and Demographics"_, [KeeganEdwards.com](https://keeganedwards.com/understanding-taco-bells-target-market-strategies-and-demographics)
-* Ben Coley, May 28, 2024, _"How Taco Bell’s Marketing Engine Embraces Culture and the Customer"_, [QSR Magazine](https://www.qsrmagazine.com/story/how-taco-bells-marketing-engine-embraces-culture-and-the-customer/)
-* Avery Koop, Aug 31, 2022, _"Ranked: The Most Popular Fast Food Brands in America"_, [VisualCapitalist.com](https://www.visualcapitalist.com/ranked-the-most-popular-fast-food-brands-in-america/)
+* Various, Jan 16, 2024, [Yum! Brands 2023 Annual Report](https://s2.q4cdn.com/890585342/files/doc_financials/2023/ar/annual-report-2023/index.html)
 * Various, July 21, 2024, _"Yum! Brands to Expand Voice AI Technology to Hundreds of Taco Bell U.S. Drive-Thru Locations in 2024, with a Future Vision to Bring the Technology to Its Brands’ Drive-Thrus Around the World"_, [Yum Brands Investor Relations Press Release](https://www.yum.com/wps/portal/yumbrands/Yumbrands/news/press-releases/yum+brands+to+expand+voice+ai+technology+to+hundreds+of+taco+bell+us+drive+thru+locations+in+2024+with+a+future+vision+to+bring+the+technology+to+its+brands+drive+thrus+around)
+* Bryan Wassel, Nov 11, 2024, _"Taco Bell puts AI front-and-center in drive-thru strategy"_, [CIODive.com](https://www.ciodive.com/news/taco-bell-AI-drive-thru-strategy/732592/)
+
+
+
  
 
 
